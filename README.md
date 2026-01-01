@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/0610-triangle-judgement) |
 | [1667-fix-names-in-a-table](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1693-daily-leads-and-partners) |
