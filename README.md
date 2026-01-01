@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1251-average-selling-price) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1667-fix-names-in-a-table](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/seandeanx/https-github.com-seandeanx-Leetcode/tree/master/1693-daily-leads-and-partners) |
